@@ -4,47 +4,43 @@
 body {
 	background-repeat: ;
 	background-image: ;
-	background-color:#C6C ;
+	background-color: ;
 	padding-top: 0px;
 	margin: 0;
 	padding: 0;
 }
 
 #wrapper {
-	width: 1065px;
+	width: 965px;
 	margin-right: auto;
 	margin-left: auto;
-}
-
-header,footer {
-	width: 965px;
-	margin-right: ;
-	margin-left: ;
-	height: 90px;
 	background-color: #000;
 }
-nav{
-	
+
+header, footer {
 	width: 965px;
-	height:95px;
-	margin-right:;
-	margin-left:;
-	padding-left:600px;
-	background-color:#FFF;
-	color:#FFF;
-	padding-top:55px;
-}
-section{
-width:965px;
-margin-left:;
-magin-right:;
-height:300px;
-background-color: #0F3
-}
-figure{
-	width:120;
-	height:120;
-	float:left;
-	padding-right:600;
+
+	margin-right: ;
+	margin-left: ;
+	height: 120px;
+	background-color: #3F0;
+	float: left;
 }
 
+nav {
+	background-color: #3FF;	
+	width: 965px;
+	height: 120px;
+	float: left;
+}
+
+section {
+	background-color: #396;
+	width: 965px;
+	height: 600px;
+	float: left;
+}
+
+figure {
+	float: left;
+}
