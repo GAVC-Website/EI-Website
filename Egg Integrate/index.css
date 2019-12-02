@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-repeat: ;
+	background-image: ;
+	background-color: ;
+	padding-top: 0px;
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	width: 1065px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header,footer {
+	width: 965px;
+	margin-right: ;
+	margin-left: ;
+	height: 90px;
+	background-color: #000;
+}
+nav{
+	
+	width: 965px;
+	height:95px;
+	margin-right:;
+	margin-left:;
+	padding-left:600px;
+	background-color:#FFF;
+	color:#FFF;
+	padding-top:55px;
+}
+section{
+width:965px;
+margin-left:;
+magin-right:;
+height:300px;
+background-color: #0F3
+}
+figure{
+	width:120;
+	height:120;
+	float:left;
+	padding-right:600;
+}
+
