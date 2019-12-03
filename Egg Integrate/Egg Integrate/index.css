@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-repeat: ;
+	background-image: ;
+	background-color:;
+	color:;
+	padding-top: 0px;
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	width: 965px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #000;
+}
+
+header, footer {
+	width: 965px;
+
+	margin-right: ;
+	margin-left: ;
+	height: 120px;
+	background-color: #ffceeb;
+}
+
+nav {
+	background-color: #ffceeb;	
+	width:;
+	height:;
+	margin-top:55px;
+	margin-left:669px;
+
+}
+
+section {
+	background-color: #cefffa;
+	width: 965px;
+	height: 600px;
+	float: left;
+}
+
+figure {
+	float: left;
+}
