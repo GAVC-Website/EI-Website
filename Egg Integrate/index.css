@@ -4,7 +4,8 @@
 body {
 	background-repeat: ;
 	background-image: ;
-	background-color:c9c ;
+	background-color:;
+	color:;
 	padding-top: 0px;
 	margin: 0;
 	padding: 0;
@@ -23,19 +24,20 @@ header, footer {
 	margin-right: ;
 	margin-left: ;
 	height: 120px;
-	background-color: #3F0;
-	float: left;
+	background-color: #ffceeb;
 }
 
 nav {
-	background-color: #3FF;	
-	width: 965px;
-	height: 120px;
-	float: left;
+	background-color: #ffceeb;	
+	width:;
+	height:;
+	margin-top:55px;
+	margin-left:669px;
+
 }
 
 section {
-	background-color: #396;
+	background-color: #cefffa;
 	width: 965px;
 	height: 600px;
 	float: left;
