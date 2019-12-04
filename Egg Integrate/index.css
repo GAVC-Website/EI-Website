@@ -32,7 +32,7 @@ nav {
 	width:;
 	height:;
 	margin-top:55px;
-	margin-left:669px;
+	margin-left:724px;
 
 }
 
@@ -47,4 +47,11 @@ figure {
 	width:120px;
 	height:120px;
 	float: left;
+}
+.active {
+	}
+.nav-tabs > li.active > a {
+  background-color: #ebffce!important;
+  border: medium none;
+
 }
