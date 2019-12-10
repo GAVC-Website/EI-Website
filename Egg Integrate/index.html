@@ -19,6 +19,44 @@
 
 <!-- Bootstrap JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+
+<style type="text/css">
+
+#myslideshow{ /*sample CSS for demo*/
+border:2px solid black;
+}
+
+</style>
+
+<script src="translucentslideshow.js" type="text/javascript">
+
+/***********************************************
+* Translucent slideshow- (c) Dynamic Drive (www.dynamicdrive.com)
+* Please keep this notice intact
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+var translideshow1=new translideshow({
+	wrapperid: "myslideshow", //ID of blank DIV on page to house Slideshow
+	dimensions: [965, 500], //width/height of gallery in pixels. Should reflect dimensions of largest image
+	imagearray: [
+		["http://i26.tinypic.com/11l7ls0.jpg"], //["image_path", "optional_link", "optional_target"]
+		["http://i29.tinypic.com/xp3hns.jpg", "http://en.wikipedia.org/wiki/Cave", "_new"],
+		["http://i30.tinypic.com/531q3n.jpg"],
+		["http://i31.tinypic.com/119w28m.jpg"] //<--no trailing comma after very last image element!
+	],
+	displaymode: {type:'auto', pause:2000, cycles:2, pauseonmouseover:true},
+	orientation: "h", //Valid values: "h" or "v"
+	persist: true, //remember last viewed slide and recall within same session?
+	slideduration: 400 //transition duration (milliseconds)
+})
+
+</script>
 </head>
 
 <body style="background-color:#ebffce;">
@@ -39,7 +77,7 @@
     	</nav>
     </header>
     <section>
-    
+    <div id="myslideshow"></div>
     </section>
     <footer>
     </footer>
