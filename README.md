@@ -12,5 +12,7 @@ Contributors (Added 2023):
 Logan Holland,
 Blake Mckee,
 Hunter Anderson,
-Noah,
-Dalen O'Riley
+Noah Jacobs,
+Dalen O'Riley,
+Eric Peterson,
+Tayshaun Campbell
