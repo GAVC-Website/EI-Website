@@ -9,8 +9,8 @@ I don't know how to create legal documents of important disclaimers.
 The author should not be given this much power.-Noah
 
 Contributors (Added 2023):
-Logan Holland
-Blake Mckee
-Hunter Anderson
-Noah 
+Logan Holland,
+Blake Mckee,
+Hunter Anderson,
+Noah,
 Dalen O'Riley
